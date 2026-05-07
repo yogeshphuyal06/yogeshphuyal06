@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:111827&height=230&section=header&text=Yogesh%20Phuyal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🎨 UI/UX Developer | Web & Mobile Design</h3>
+<h3 align="center">🎨 UI/UX Developer | WEB & MOBILE DESIGN</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=700&color=0EA5E9&center=true&vCenter=true&width=700&lines=Creative+UI%2FUX+Designer;Figma+%26+Design+Systems+Expert;User-Centered+Design+Thinker;Designing+Experiences+That+Matter+🔥" />
